@@ -1,0 +1,11 @@
+{
+  "name": "events-opti",
+  "version": "1.0.0",
+  "description": "- Сhatty events - Throttle та debounce подій з бібліотекою Lodash - Lazy-loading images: нативна та з бібліотекою lazysizes - Використання бібліотек через CDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

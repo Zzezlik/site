@@ -1,0 +1,49 @@
+.center {
+  text-align: center;
+  display: block;
+}
+
+.center .lists {
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.center button {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.center button:hover {
+  background: #ccc;
+}
+
+.center button:active {
+  background: #999;
+}
+
+.center .num {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 33px;
+}
+
+.search {
+  border-radius: 5px;
+  border: 2px solid #ccc;
+}
+
+.search:focus {
+  outline: none;
+  border-color: #999;
+}
+
+.hidden {
+  display: none;
+}
